@@ -1,0 +1,1 @@
+convert file.svg -density 1200 -resize 32x32 file.png
