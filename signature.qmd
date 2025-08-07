@@ -1,0 +1,75 @@
+---
+format: 
+  html:
+    css: style.css
+---
+
+::::{style="font-family: Arial, Helvetica, sans-serif;"}
+
+<!--
+<div style="float: left; margin-right: 20px; margin-top: 0px; margin-bottom:0px;">
+![](https://gianluca.statistica.it/media/img/avatar2.jpg){width="260px"} 
+</div>
+-->
+
+**Gianluca Baio**    
+*Professor of Statistics and Health Economics* &nbsp; | &nbsp; Head of Department
+
+Department of Statistical Science &nbsp; | &nbsp; University College London    
+1-19 Torrington Place, London, [WC1E 7HB](https://goo.gl/maps/tQxmUu8toRjrQYuZ9), UK    
+<!--
+Twitter: [@stats_ucl](https://twitter.com/stats_UCL){target="_blank"} &nbsp; | &nbsp; Instagram: [@stats_UCL](https://instagram.com/ucl.stats/){target="_blank"} &nbsp; | &nbsp; Podcast: [Random Talks](https://soundcloud.com/uclsound/sets/sample-space)
+-->
+
+![](https://raw.githubusercontent.com/giabaio/icons/main/mastodon.png){width="20px"} [@statistics_ucl](https://mastodon.social/@statistics_UCL){target="_blank" title="Follow the department updates on Mastodon"} &nbsp; | &nbsp; 
+![](https://raw.githubusercontent.com/giabaio/icons/main/instagram.png){width="20px"} [@stats_UCL](https://instagram.com/ucl.stats/){target="_blank" title="Follow the department updates on Instagram"} &nbsp; | &nbsp; ![](https://raw.githubusercontent.com/giabaio/icons/main/twitter.png){width="20px"} [@stats_ucl](https://twitter.com/stats_UCL){target="_blank" title="Follow the department updates on Twitter"} &nbsp; | &nbsp;![](https://raw.githubusercontent.com/giabaio/icons/main/soundcloud.png){width="20px"} [Random Talks](https://soundcloud.com/uclsound/sets/sample-space){target="_blank" title="Listen to our departmental podcast"}
+
+Telephone: +44(0)20 7679 1248 (internal: 41248)    
+Website: [http://www.homepages.ucl.ac.uk/~ucakgba](http://www.homepages.ucl.ac.uk/~ucakgba){target="_blank"}    
+Blog: [https://gianluca.statistica.it/blog/](https://gianluca.statistica.it/blog/){target="_blank"}    
+Book a meeting with me: [https://book.morgen.so/gianlucabaio/book-me](https://book.morgen.so/gianlucabaio/book-me){target="_blank"}
+
+[![](https://raw.githubusercontent.com/giabaio/icons/main/mastodon.png){width="20px"}](https://mas.to/@gianlubaio){target="_blank" title="Follow me on Mastodon"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/icons/main/linkedin.png){width="20px"}](https://www.linkedin.com/in/gianluca-baio-b893879/){target="_blank" title="Follow me on LinkedIn"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/icons/main/twitter.png){width="20px"}](https://twitter.com/gianlubaio){target="_blank" title="Follow me on Twitter"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/icons/main/github.png){width="20px"}](https://github.com/giabaio){target="_blank" title="Check my repos"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/icons/main/arxiv.png){width="20px"}](https://arxiv.org/a/baio_g_1.html){target="_blank" title="Read my arxived papers"} &nbsp;
+[![](https://raw.githubusercontent.com/giabaio/icons/main/orcid.png){width="20px"}](https://orcid.org/0000-0003-4314-2570){target="_blank" title="Check out my ORCID profile"} &nbsp;
+
+&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;
+
+:::{style="font-size: 14px; margin-top: 30px"}
+For Head of Department correspondence, please use [stats_hod@ucl.ac.uk](mailto:stats_hod@ucl.ac.uk)
+
+![](https://s1g.s3.amazonaws.com/3f32ef1962be41fb8943ee58d28cf3aa.png)
+
+*This email may reach you outside of your working hours. If that's the case, please do **not** feel pressure to reply immediately.*
+:::
+::::
+
+
+<!--
+<div><strong><br></strong></div>
+<div><strong><span style="font-family: Arial, Helvetica, sans-serif;">Gianluca Baio</span></strong><span style="font-family: Arial, Helvetica, sans-serif;">&nbsp;<br><br><em>Professor of Statistics &amp; Health Economics</em><br>Department of Statistical Science &nbsp;| &nbsp;University College London<br>1-19 Torrington Place, London WC1E 6BT, UK</span></div>
+<div><span style="font-family: Arial, Helvetica, sans-serif;">Twitter: <a href="https://twitter.com/stats_UCL" target="_blank">@stats_UCL</a>&nbsp; | &nbsp;Instagram: <a href="https://instagram.com/ucl.stats/" target="_blank">@stats_UCL</a></span></div>
+<div><span style="font-family: Arial, Helvetica, sans-serif;"><br></span></div>
+<div><span style="font-family: Arial, Helvetica, sans-serif;">Telephone +44(0)20 7679 1248 (internal: 41248)<br>Website: <a href="http://www.homepages.ucl.ac.uk/~ucakgba" target="_blank">http://www.homepages.ucl.ac.uk/~ucakgba</a>&nbsp;<br>Blog: <a href="https://gianluca.statistica.it/blog/" target="_blank">https://gianluca.statistica.it/blog/</a><br>Book a meeting with me: <a href="https://book.morgen.so/gianlucabaio/book-me" target="_blank">https://book.morgen.so/gianlucabaio/book-me</a></span></div>
+<div><span style="font-family: Arial, Helvetica, sans-serif;"><br></span></div>
+<table border="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://twitter.com/gianlubaio" target="_blank"><img src="https://s1g.s3.amazonaws.com/d30d7ed3cc2ae8b60aad790057f485f8.png" alt="Twitter" width="20" height="20"></a></span></td>
+            <td><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://mas.to/@gianlubaio" target="_blank"></a></span></td>
+            <td><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://linkedin.com/in/gianluca-baio-b893879/" target="_blank"><img src="https://s1g.s3.amazonaws.com/20ea16e9806998e7626b639e1e4e3790.png" alt="LinkedIn (Personal)" width="20" height="20"></a></span></td>
+            <td><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://github.com/giabaio" target="_blank"><img src="https://s1g.s3.amazonaws.com/0d859e7137959479934b2bdd6c43dc3f.png" alt="Github" width="20" height="20"></a></span></td>
+            <td><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://ucl.zoom.us/j/9904462616" target="_blank"><img src="https://s1g.s3.amazonaws.com/bd5a65e6c5d6831a000e64030c1e9d94.png" alt="Zoom" width="20" height="20"></a></span></td>
+            <td><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://orcid.org/0000-0003-4314-2570" target="_blank"><img src="https://s1g.s3.amazonaws.com/8ae34b1bc714533de35fc86265c8c539.png" alt="ORCID" width="20" height="20"></a></span></td>
+            <td><span style="font-family: Arial, Helvetica, sans-serif;"><a href="https://soundcloud.com/uclsound/sets/sample-space" target="_blank"><img src="https://s1g.s3.amazonaws.com/33180a09998f2cc93afd750a7d511fd5.png" alt="Soundcloud" width="20" height="20"></a></span></td>
+        </tr>
+    </tbody>
+</table>
+<p><span style="font-family: Arial, Helvetica, sans-serif;">____________________________________________________</span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif;"><span style="font-size: 14px;">For Head of Department correspondence, please use <a href="mailto:stats.hod@ucl.ac.uk" target="_blank">stats.hod@ucl.ac.uk</a></span><br></span></p>
+<p><span style="font-family: Arial, Helvetica, sans-serif;"><img src="https://s1g.s3.amazonaws.com/3f32ef1962be41fb8943ee58d28cf3aa.png"></span></p>
+<p><em><span style="font-family: Arial, Helvetica, sans-serif; font-size: 14px;">This email may reach you outside of your working hours. If that&apos;s the case, please do <strong>not</strong> feel pressure to reply immediately.</span></em></p>
+-->
