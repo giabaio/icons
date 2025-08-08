@@ -4,7 +4,7 @@ format:
     css: style.css
 ---
 
-::::{style="font-family: Arial, Helvetica, sans-serif;"}
+::::{style="font-family: Arial, Helvetica, sans-serif;font-size: 15px"}
 
 <!--
 <div style="float: left; margin-right: 20px; margin-top: 0px; margin-bottom:0px;">
@@ -13,16 +13,19 @@ format:
 -->
 
 **Gianluca Baio**    
-*Professor of Statistics and Health Economics* &nbsp; | &nbsp; Head of Department
+*Professor of Statistics and Health Economics* &nbsp; | &nbsp; *Head of Department*
 
-Department of Statistical Science &nbsp; | &nbsp; University College London    
+Department of Statistical Science &nbsp; | &nbsp; University College London     
 1-19 Torrington Place, London, [WC1E 7HB](https://goo.gl/maps/tQxmUu8toRjrQYuZ9), UK    
+
+::::{style="margin-top: -10px"}
+![](https://raw.githubusercontent.com/giabaio/icons/main/soundcloud.png){width="20px"} [Random Talks](https://soundcloud.com/uclsound/sets/sample-space){title="Listen to our departmental podcast"} &ensp; &ensp; ![](https://raw.githubusercontent.com/giabaio/icons/main/sample-space.png){width="20px"} [Sample Space](https://sample-space.org/){title="Read to our departmental magazine"}
+:::
 <!--
 Twitter: [@stats_ucl](https://twitter.com/stats_UCL){target="_blank"} &nbsp; | &nbsp; Instagram: [@stats_UCL](https://instagram.com/ucl.stats/){target="_blank"} &nbsp; | &nbsp; Podcast: [Random Talks](https://soundcloud.com/uclsound/sets/sample-space)
+![](https://raw.githubusercontent.com/giabaio/icons/main/mastodon.png){width="20px"} [@statistics_ucl](https://mastodon.social/@statistics_UCL){target="_blank" title="Follow the department updates on Mastodon"} &emsp; 
+![](https://raw.githubusercontent.com/giabaio/icons/main/instagram.png){width="20px"} [@stats_UCL](https://instagram.com/ucl.stats/){target="_blank" title="Follow the department updates on Instagram"} &emsp; ![](https://raw.githubusercontent.com/giabaio/icons/main/twitter.png){width="20px"} [@stats_ucl](https://twitter.com/stats_UCL){target="_blank" title="Follow the department updates on Twitter"}    
 -->
-
-![](https://raw.githubusercontent.com/giabaio/icons/main/mastodon.png){width="20px"} [@statistics_ucl](https://mastodon.social/@statistics_UCL){target="_blank" title="Follow the department updates on Mastodon"} &nbsp; | &nbsp; 
-![](https://raw.githubusercontent.com/giabaio/icons/main/instagram.png){width="20px"} [@stats_UCL](https://instagram.com/ucl.stats/){target="_blank" title="Follow the department updates on Instagram"} &nbsp; | &nbsp; ![](https://raw.githubusercontent.com/giabaio/icons/main/twitter.png){width="20px"} [@stats_ucl](https://twitter.com/stats_UCL){target="_blank" title="Follow the department updates on Twitter"} &nbsp; | &nbsp;![](https://raw.githubusercontent.com/giabaio/icons/main/soundcloud.png){width="20px"} [Random Talks](https://soundcloud.com/uclsound/sets/sample-space){target="_blank" title="Listen to our departmental podcast"}
 
 Telephone: +44(0)20 7679 1248 (internal: 41248)    
 Website: [http://www.homepages.ucl.ac.uk/~ucakgba](http://www.homepages.ucl.ac.uk/~ucakgba){target="_blank"}    
@@ -38,11 +41,9 @@ Book a meeting with me: [https://book.morgen.so/gianlucabaio/book-me](https://bo
 
 &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;
 
-:::{style="font-size: 14px; margin-top: 30px"}
-For Head of Department correspondence, please use [stats_hod@ucl.ac.uk](mailto:stats_hod@ucl.ac.uk)
-
-![](https://s1g.s3.amazonaws.com/3f32ef1962be41fb8943ee58d28cf3aa.png)
-
+:::{style="font-size: 12px; margin-top: 30px"}
+For Head of Department correspondence, please use [stats_hod@ucl.ac.uk](mailto:stats_hod@ucl.ac.uk)     
+![](https://s1g.s3.amazonaws.com/3f32ef1962be41fb8943ee58d28cf3aa.png)     
 *This email may reach you outside of your working hours. If that's the case, please do **not** feel pressure to reply immediately.*
 :::
 ::::
